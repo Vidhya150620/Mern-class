@@ -1,0 +1,27 @@
+.box{
+    height: 100px;
+    width: 100px;
+}
+.box1{
+    background-color: blue;
+    /* display: none; */
+    /* visibility: visible; */
+    /* visibility: hidden; */
+}
+.box2{
+    background-color: red;
+}
+.box3{
+    background-color: green;
+}
+.main-container{
+    border: 1px solid black;
+    width: 40%;
+}
+.second-container{
+    border-width: 5px;
+    border-style: dotted;
+    border-color: aqua;
+    height: 200px;
+    width: 200px;
+}

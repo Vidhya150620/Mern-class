@@ -1,0 +1,16 @@
+p{
+    color: red;
+}
+#my_para{
+    color: green;
+}
+.para1{
+    color: rgb(255, 0, 0);
+}
+
+#my_para,.para1{
+    font-size: 30px;
+}
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

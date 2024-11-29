@@ -1,0 +1,34 @@
+.main-container{
+    /* background-color: aqua; */
+    /* height: 300px;
+    width: 400px; */
+    /* background-image: url(../image/WhatsApp\ Image\ 2024-10-30\ at\ 2.25.44\ PM.jpeg); */
+    /* object-fit: cover; */
+
+    /* height: 700px;
+    width: 1000px;
+    
+   
+    border: 1px solid red; */
+}
+.inner-con{
+    height: 500px;
+    /* width: 500px; */
+    background-image: url(../image/user-profile-icon-profile-avatar-user-icon-male-icon-face-icon-profile-icon-free-png.webp);
+    background-repeat: no-repeat;
+     /* background-repeat: repeat;  */
+    /* background-repeat: repeat-x; */
+    /* background-repeat: repeat-y; */
+
+    /* background-position-x: center; */
+    /* background-position-x: left; */
+    /* background-position-x: right; */
+    /* background-position-x: 70%; */
+
+    /* background-position-y: bottom; */
+    /* background-position-y: top; */
+    /* background-position-y: center; */
+
+
+    
+}
